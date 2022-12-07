@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(188, 214, 237);
+}
+
+h1, h2, h3{
+    text-align: center;
+}
+
+#imagen1{
+    height: 50%;
+    width: 20%;
+}
+
+#imagen2{
+    height: 100%;
+    width: 100%;
+}
+
+div#quienFue{
+    margin-top: 1.5%;
+    margin-bottom: 1.5%;
+}
+
+div#historia{
+    margin-top: 1.5%;
+    margin-bottom: 1.5%;
+}
+
+#program1,#program2,#program3{
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+#STEM1, #STEM2, #STEM3{
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
